@@ -1,4 +1,7 @@
-flask
 transformers
 torch
-accelerate
+flask
+flask-cors
+sentencepiece
+protobuf
+tiktoken
